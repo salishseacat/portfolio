@@ -1,0 +1,50 @@
+---
+title:
+album_date: "2019-10-12T13:50:05-07:00"
+properties:
+copyright:
+coverimage: IMG_3703.jpg
+creation_time: "2019-10-12T13:50:05-07:00"
+modification_time: "2019-10-12T13:52:24-07:00"
+
+photos:
+- file: IMG_3666.jpg
+  name: IMG_3666.jpg
+  alt:
+  caption:
+
+- file: IMG_3703.jpg
+  name: IMG_3703.jpg
+  alt:
+  caption:
+
+- file: IMG_3849.jpg
+  name: IMG_3849.jpg
+  alt:
+  caption:
+
+- file: IMG_3862.jpg
+  name: IMG_3862.jpg
+  alt:
+  caption:
+
+- file: IMG_3890.jpg
+  name: IMG_3890.jpg
+  alt:
+  caption:
+
+hashes:
+- file: IMG_3666.jpg
+  hash: -3365421051168962560
+
+- file: IMG_3703.jpg
+  hash: 2189172506782722560
+
+- file: IMG_3849.jpg
+  hash: -131131131886163968
+
+- file: IMG_3862.jpg
+  hash: 2772746736353304064
+
+- file: IMG_3890.jpg
+  hash: -3436069297991325696

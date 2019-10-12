@@ -1,0 +1,50 @@
+---
+title: Architecture
+album_date: "2019-10-12T13:45:10-07:00"
+properties:
+copyright:
+coverimage: IMG_2670.jpg
+creation_time: "2019-10-12T13:45:10-07:00"
+modification_time: "2019-10-12T13:52:56-07:00"
+
+photos:
+- file: IMG_2667.jpg
+  name: IMG_2667.jpg
+  alt:
+  caption: 
+
+- file: IMG_2670.jpg
+  name: IMG_2670.jpg
+  alt:
+  caption: 
+
+- file: IMG_2676.jpg
+  name: IMG_2676.jpg
+  alt:
+  caption: 
+
+- file: IMG_2680.jpg
+  name: IMG_2680.jpg
+  alt:
+  caption: 
+
+- file: IMG_2688.jpg
+  name: IMG_2688.jpg
+  alt:
+  caption: 
+
+hashes:
+- file: IMG_2667.jpg
+  hash: -3422315139693793280
+
+- file: IMG_2670.jpg
+  hash: -7875621575754895360
+
+- file: IMG_2676.jpg
+  hash: 371196238579154816
+
+- file: IMG_2680.jpg
+  hash: -1758198942576965632
+
+- file: IMG_2688.jpg
+  hash: 6848156943365648384
