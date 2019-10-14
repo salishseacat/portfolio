@@ -6,7 +6,8 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo --contentDir themes/tiger-eyes/exampleSite -t tiger-eyes --forceSyncStatic # if using a theme, replace with `hugo -t <YOURTHEME>`
+# hugo --contentDir themes/tiger-eyes/exampleSite -t tiger-eyes --forceSyncStatic # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t tiger-eyes
 
 # Go To Public folder
 cd public
