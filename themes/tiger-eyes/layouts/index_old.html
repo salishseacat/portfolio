@@ -1,0 +1,27 @@
+<html>
+{{ partial "head.html" . }}
+  <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/album.css"/>
+  <link href="https://fonts.googleapis.com/css?family=Architects+Daughter|Nanum+Brush+Script|Lato&display=swap" rel="stylesheet"/>
+  <body class="bg-blue-800">
+    <div class="hero-image mb-8">
+      <div class="hero-text">
+        <h1 class="align-top font-display text-6xl">TigerEyes</h1>
+      </div>
+    </div>
+    <main class="container mx-auto font-body mt-6">
+    <div class="flex flex-wrap justify-center">
+    {{ range .Site.RegularPages }}
+    <div class="sm:w-1/2 md:w-1/3 lg:w-1/4 rounded overflow-hidden shadow-lg">
+      <a href="{{ .Permalink }}">  
+        <img class="" alt="{{ .Title }}" src="{{ .Params.cover }}"/>
+        <div class="px-6 py-4 bg-blue-700">
+          <div class="font-bold text-xl mb-2 text-white">{{ .Title }} </div>  
+        </div>  
+      </a>   
+    </div>
+    {{ end }}
+    </div>
+    </main>
+  </body>
+</html>

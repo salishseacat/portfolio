@@ -1,7 +1,7 @@
 +++
 title = "Architecture"
 date = "2019-10-12T13:45:10-07:00"
-
+text = """These are some photographs that show the building, temples, homes, and gardens of the areas that I've visited."""
 cover = "/pics/architecture/coverimage.jpg"
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Places"
 date = "12 October, 2019"
-
+text = """Landscapes have been a special interest because of their challenges---How to get there and how to convey, in a photograph, the mystery and soul of a place."""
 cover = "/pics/places/coverimage.jpg"
 +++
 
