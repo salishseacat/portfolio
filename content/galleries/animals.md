@@ -1,7 +1,7 @@
 +++
 title = "Animals"
 date = "2019-10-12T13:50:05-07:00"
-text = """In this album are some of the photographs I've taken of different animals."""
+text = """_Animals are the bridge between us and the beauty of all that is natural._ In this album are some of the photographs I've taken of different animals."""
 cover = "/pics/animals/coverimage.jpg"
 +++
 
