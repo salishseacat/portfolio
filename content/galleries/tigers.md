@@ -1,7 +1,7 @@
 +++
 title = "Tigers of Sacred Places"
 date = "2019-10-17T16:39:22-07:00"
-text = """Tigers occupy a distinctive place in Tibetan religion and culture.  Paintings of tigers are often found in temples."""
+text = """Tigers occupy a distinctive place in Tibetan religion and culture.  Paintings of tigers are often found in temple murals."""
 cover = "/pics/tigers/coverimage.jpg"
 +++
 

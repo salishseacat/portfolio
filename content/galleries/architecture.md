@@ -6,11 +6,11 @@ cover = "/pics/architecture/coverimage.jpg"
 +++
 
 {{< wrap >}}
-{{< photo href="/pics/architecture/large/img_2667_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2667_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2667_256x256.jpg" caption="" copyright="" >}}
+{{< photo href="/pics/architecture/large/img_2667_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2667_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2667_256x256.jpg" caption="Street scene from Kathmandu." copyright="" >}}
 
-{{< photo href="/pics/architecture/large/img_2670_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2670_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2670_256x256.jpg" caption="" copyright="" >}}
+{{< photo href="/pics/architecture/large/img_2670_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2670_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2670_256x256.jpg" caption="House in Old Kathmandu" copyright="" >}}
 
-{{< photo href="/pics/architecture/large/img_2676_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2676_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2676_256x256.jpg" caption="" copyright="" >}}
+{{< photo href="/pics/architecture/large/img_2676_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2676_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2676_256x256.jpg" caption="Temple square." copyright="" >}}
 
 {{< photo href="/pics/architecture/large/img_2680_1200x1600.jpg" largeDim="1200x1600" smallUrl="/pics/architecture/small/img_2680_600x800.jpg" smallDim="600x800" alt="None" thumbSize="256x256" thumbUrl="/pics/architecture/thumb/img_2680_256x256.jpg" caption="" copyright="" >}}
 
