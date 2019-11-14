@@ -2,11 +2,20 @@
 title: Animals
 album_date: "2019-10-12T13:50:05-07:00"
 properties:
+<<<<<<< HEAD
   text: "_Animals are the bridge between us and the beauty of all that is natural._ \n\n In this album are some of the photographs I've taken of different animals."
 copyright:
 coverimage: IMG_3703.jpg
 creation_time: "2019-10-12T13:50:05-07:00"
 modification_time: "2019-10-17T16:47:13-07:00"
+=======
+  text: "_Animals are the bridge between us and the beauty of all that is natural._ \n\n
+   In this album are some of the photographs I've taken of different animals."
+copyright:
+coverimage: IMG_3703.jpg
+creation_time: "2019-10-12T13:50:05-07:00"
+modification_time: "2019-10-23T17:52:42-07:00"
+>>>>>>> dbaf6616478c960ec129b31dbfdde96034e1bb87
 
 photos:
 - file: IMG_3666.jpg
@@ -36,16 +45,16 @@ photos:
 
 hashes:
 - file: IMG_3666.jpg
-  hash: -3365421051168962560
+  hash: 1674992693334248724
 
 - file: IMG_3703.jpg
-  hash: 2189172506782722560
+  hash: 216620994898690534
 
 - file: IMG_3849.jpg
-  hash: -131131131886163968
+  hash: 2036150750694871010
 
 - file: IMG_3862.jpg
-  hash: 2772746736353304064
+  hash: 1552878346469900903
 
 - file: IMG_3890.jpg
-  hash: -3436069297991325696
+  hash: 90735458489732357

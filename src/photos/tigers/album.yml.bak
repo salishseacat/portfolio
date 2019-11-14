@@ -6,27 +6,44 @@ properties:
 copyright:
 coverimage: Tiger1.jpg
 creation_time: "2019-10-17T16:39:22-07:00"
+<<<<<<< HEAD
 modification_time: "2019-10-17T16:47:29-07:00"
+=======
+modification_time: "2019-10-23T17:52:43-07:00"
+>>>>>>> dbaf6616478c960ec129b31dbfdde96034e1bb87
 
 photos:
 - file: Tiger1.jpg
   name: Tiger1.jpg
   alt:
+<<<<<<< HEAD
   caption:
+=======
+  caption: 
+>>>>>>> dbaf6616478c960ec129b31dbfdde96034e1bb87
 
 - file: Tiger2.jpg
   name: Tiger2.jpg
   alt:
+<<<<<<< HEAD
   caption:
+=======
+  caption: 
+>>>>>>> dbaf6616478c960ec129b31dbfdde96034e1bb87
 
 - file: Tiger3.jpg
   name: Tiger3.jpg
   alt:
+<<<<<<< HEAD
   caption:
+=======
+  caption: 
+>>>>>>> dbaf6616478c960ec129b31dbfdde96034e1bb87
 
 - file: Tiger4.jpg
   name: Tiger4.jpg
   alt:
+<<<<<<< HEAD
   caption:
 
 hashes:
@@ -41,3 +58,19 @@ hashes:
 
 - file: Tiger4.jpg
   hash: -486792152895778816
+=======
+  caption: 
+
+hashes:
+- file: Tiger1.jpg
+  hash: 693104851266047968
+
+- file: Tiger2.jpg
+  hash: 1996660515925920149
+
+- file: Tiger3.jpg
+  hash: 1819388791991830908
+
+- file: Tiger4.jpg
+  hash: 2099305721653890963
+>>>>>>> dbaf6616478c960ec129b31dbfdde96034e1bb87
