@@ -19,8 +19,11 @@
 
     <!-- Start copied from GitHub docs HugoPhotoSwipe -->
 
+    <div class="flex flex-wrap">
+        <a class="flex-initial text-blue-500 hover:text-blue-800 text-xl p-4" style="font-family: 'Architects Daughter', cursive;" href="{{ .Site.BaseURL }}">Back to all photos</a>
+    </div>
     <main class="flex flex-wrap justify-center" style="font-family: 'Architects Daughter', cursive;">
-    <h1 class="w-full font-display text-white font-display text-6xl" style="text-align: center;">{{ .Title }}</h1>
+      <h1 class="w-full font-display text-white font-display text-6xl" style="text-align: center;">{{ .Title }}</h1>
     <div class="gallery flex flex-wrap justify-center" itemscope itemtype="https://schema.org/ImageGallery" >
       {{ .Content }}
     </div>
@@ -60,6 +63,7 @@
       </div>
     </div>
     </main>
+    <div class="flex-initial text-blue-500 text-xl p-4" style="font-family: 'Architects Daughter', cursive;">Click on one of the images to see a full-sized version.  Use arrows or swipe to view the others.</div>
     <script type="application/javascript" src="{{ .Site.BaseURL }}js/pswp_gallery.js"></script>
 
     <!-- End copied from GitHub docs HugoPhotoSwipe -->
