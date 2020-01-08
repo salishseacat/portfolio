@@ -1,0 +1,118 @@
+---
+title: Spiritscapes
+album_date: "2020-01-06T15:42:27-08:00"
+properties:
+copyright: TigerEyes
+coverimage: 2_Maitreya_Buddha.jpeg
+creation_time: "2020-01-06T15:42:27-08:00"
+modification_time: "2020-01-07T10:27:14-08:00"
+
+photos:
+- file: 1_Yamdrok_Tso.jpeg
+  name: 1_Yamdrok_Tso.jpeg
+  alt: Yamdrok Tso, Tibet
+  caption: >
+          Yamdrok Tso, Tibet
+
+- file: 2_Maitreya_Buddha.jpeg
+  name: 2_Maitreya_Buddha.jpeg
+  alt: Maitreya Buddha, Thiksey Monastery, Leh
+  caption: >
+          Maitreya Buddha, Thiksey Monastery, Leh
+
+- file: 3_Prayer_Flags.jpeg
+  name: 3_Prayer_Flags.jpeg
+  alt: Prayer Flags at Manosarovar, Tibet
+  caption: >
+          Prayer Flags at Manosarovar, Tibet
+
+- file: 4_Kailash_Kora.jpeg
+  name: 4_Kailash_Kora.jpeg
+  alt: The Kailash Kora, Tibet
+  caption: >
+          The Kailash Kora, Tibet
+
+- file: 5_Prayer_Wheels.jpeg
+  name: 5_Prayer_Wheels.jpeg
+  alt: Prayer Wheels, Chiu Monastery, Tibet
+  caption: >
+          Prayer Wheels, Chiu Monastery, Tibet
+
+- file: 6_Yak_Skulls.jpeg
+  name: 6_Yak_Skulls.jpeg
+  alt: Yak Skulls and Mani Stones, Chiu Monastery, Tibet
+  caption: >
+          Yak Skulls and Mani Stones, Chiu Monastery, Tibet
+
+- file: 7_Manosarovar.jpeg
+  name: 7_Manosarovar.jpeg
+  alt: Manosarovar, Tibet
+  caption: >
+          Manosarovar, Tibet
+
+- file: 8_Offerings.jpeg
+  name: 8_Offerings.jpeg
+  alt: Offerings, Chiu Monastery, Tibet
+  caption: >
+          Offerings, Chiu Monastery, Tibet
+
+- file: 9_Mani_Stones_and_Horn.jpeg
+  name: 9_Mani_Stones_and_Horn.jpeg
+  alt: Mani Stones and Horn, Kailash Kora
+  caption: >
+          Mani Stones and Horn, Kailash Kora
+
+- file: X10_Sunrise_Shekar_Dzong.jpeg
+  name: X10_Sunrise_Shekar_Dzong.jpeg
+  alt: Sunrise, Shekar Dzong, Tibet
+  caption: >
+          Sunrise, Shekar Dzong, Tibet
+
+- file: X11_Thunder_Sky.jpeg
+  name: X11_Thunder_Sky.jpeg
+  alt: Thunder Sky, Western Tibet
+  caption: >
+          Thunder Sky, Western Tibet
+
+- file: X12_Before_Dawn_Kangshung_Face.jpeg
+  name: X12_Before_Dawn_Kangshung_Face.jpeg
+  alt: Before Dawn, Kangshung Face, Everest
+  caption: >
+          Before Dawn, Kangshung Face, Everest
+
+hashes:
+- file: 1_Yamdrok_Tso.jpeg
+  hash: 870676140297307904
+
+- file: 2_Maitreya_Buddha.jpeg
+  hash: 4110901915786529280
+
+- file: 3_Prayer_Flags.jpeg
+  hash: 2953573178824272384
+
+- file: 4_Kailash_Kora.jpeg
+  hash: 2744022158225897472
+
+- file: 5_Prayer_Wheels.jpeg
+  hash: 9203112318082604032
+
+- file: 6_Yak_Skulls.jpeg
+  hash: -1031545560267184128
+
+- file: 7_Manosarovar.jpeg
+  hash: -5861167286378455040
+
+- file: 8_Offerings.jpeg
+  hash: -2540499324528834560
+
+- file: 9_Mani_Stones_and_Horn.jpeg
+  hash: 2762065064221706240
+
+- file: X10_Sunrise_Shekar_Dzong.jpeg
+  hash: 4311890671890376704
+
+- file: X11_Thunder_Sky.jpeg
+  hash: -1789461322117836800
+
+- file: X12_Before_Dawn_Kangshung_Face.jpeg
+  hash: 4652509644400555008

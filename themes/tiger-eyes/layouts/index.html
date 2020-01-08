@@ -24,18 +24,18 @@
  <div class="w-64 rounded overflow-hidden shadow-lg bg-white mx-1 mt-1">
     <div class=" bg-size bg-cover bg-center"
          style="background-image: url('{{ .Params.cover }}')">
-        <div class="p-4 h-32 flex items-end text-white">
+        <div class="p-4 h-48 flex items-end text-white">
             <h3 class="mb-2">{{ .Title }}</h3>
         </div>
         <div class="relative">
 
         </div>
     </div>
-    <div class="p-4">
+    <div class="p-2 bg-blue-600">
         <p class="body text-grey-dark leading-tight">{{ .Params.text | markdownify }}
             </p>
 <a href="{{ .Permalink }}" class="no-underline mr-4 text-green hover:text-green-light">
-<svg  pointer-events="bounding-box" class="h12 w12 text-blue-700 hover:text-orange-500 stroke-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-camera">
+<svg  pointer-events="bounding-box" class="h12 w12 text-blue-100 hover:text-orange-500 stroke-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-camera">
 <circle cx="12" cy="12" r="10"></circle>
 <polyline points="12 16 16 12 12 8"></polyline>
 <line x1="8" y1="12" x2="16" y2="12"></line>

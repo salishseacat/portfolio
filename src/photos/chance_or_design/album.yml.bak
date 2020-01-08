@@ -1,0 +1,127 @@
+---
+title: Chance or Design
+album_date: "2020-01-06T15:52:36-08:00"
+properties:
+copyright: TigerEyes
+coverimage: 9_Red_Boots.jpeg
+creation_time: "2020-01-06T15:52:36-08:00"
+modification_time: "2020-01-06T22:38:47-08:00"
+
+photos:
+- file: 1_Olympic_Mural.jpeg
+  name: 1_Olympic_Mural.jpeg
+  alt: Olympic Mural, Rio de Janeiro
+  caption: >
+          Olympic Mural, Rio de Janeiro
+
+- file: 2_Prada_Marfa.jpeg
+  name: 2_Prada_Marfa.jpeg
+  alt: Prada Marfa Near Valentine, Texas
+  caption: >
+          Prada Marfa Near Valentine, Texas
+
+- file: 3_Fruit_Stand.jpeg
+  name: 3_Fruit_Stand.jpeg
+  alt: Fruit Stand, Kathmandu
+  caption: >
+          Fruit Stand, Kathmandu
+
+- file: 4_Drying_Laundry.jpeg
+  name: 4_Drying_Laundry.jpeg
+  alt: Drying Laundry, Komodo Island
+  caption: >
+          Drying Laundry, Komodo Island
+
+- file: 5_Tidal_Foam.jpeg
+  name: 5_Tidal_Foam.jpeg
+  alt: Tidal Foam, Tofino, British Columbia
+  caption: >
+          Tidal Foam, Tofino, British Columbia
+
+- file: 6_Trail_to_Sun_Gate.jpeg
+  name: 6_Trail_to_Sun_Gate.jpeg
+  alt: Trail to the Sun Gate, Machu Picchu
+  caption: >
+          Trail to the Sun Gate, Machu Picchu
+
+- file: 7_Inca_Cut_Stones.jpeg
+  name: 7_Inca_Cut_Stones.jpeg
+  alt: Inca Cut Stones with Lichen, Peru
+  caption: >
+          Inca Cut Stones with Lichen, Peru
+
+- file: 8_Koi_.jpeg
+  name: 8_Koi_.jpeg
+  alt: Koi, Japanese Garden, Portland
+  caption: >
+          Koi, Japanese Garden, Portland
+
+- file: 9_Red_Boots.jpeg
+  name: 9_Red_Boots.jpeg
+  alt: Red Boots, Shigatse
+  caption: >
+          Red Boots, Shigatse
+
+- file: X10_Family_Altar.jpeg
+  name: X10_Family_Altar.jpeg
+  alt: Family Altar Near Cusco, Peru
+  caption: >
+          Family Altar Near Cusco, Peru
+
+- file: X11_ Mural_from_Nechung.jpeg
+  name: X11_ Mural_from_Nechung.jpeg
+  alt: Mural from Nechung Monastery, Lhasa
+  caption: >
+          Mural from Nechung Monastery, Lhasa
+
+- file: X12_Cat_in _Sun.jpeg
+  name: X12_Cat_in _Sun.jpeg
+  alt: Cat in the Sun, Tibet
+  caption: >
+          Cat in the Sun, Tibet
+
+- file: X13_Door_Potala.jpeg
+  name: X13_Door_Potala.jpeg
+  alt: Door at the Potala, Lhasa
+  caption: >
+          Door at the Potala, Lhasa
+
+hashes:
+- file: 1_Olympic_Mural.jpeg
+  hash: 6475036317659346944
+
+- file: 2_Prada_Marfa.jpeg
+  hash: -8002631803468095488
+
+- file: 3_Fruit_Stand.jpeg
+  hash: 7879619264873823232
+
+- file: 4_Drying_Laundry.jpeg
+  hash: -8946590737655463936
+
+- file: 5_Tidal_Foam.jpeg
+  hash: 5343411650499659776
+
+- file: 6_Trail_to_Sun_Gate.jpeg
+  hash: -3920580475696824320
+
+- file: 7_Inca_Cut_Stones.jpeg
+  hash: -4488906680409542656
+
+- file: 8_Koi_.jpeg
+  hash: -2457147666818048000
+
+- file: 9_Red_Boots.jpeg
+  hash: 6287712283490280448
+
+- file: X10_Family_Altar.jpeg
+  hash: -1702433120842508288
+
+- file: X11_ Mural_from_Nechung.jpeg
+  hash: -5453668344490383360
+
+- file: X12_Cat_in _Sun.jpeg
+  hash: -730735229323036672
+
+- file: X13_Door_Potala.jpeg
+  hash: 9205484227010711552

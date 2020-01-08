@@ -1,0 +1,118 @@
+---
+title: Colours and Contrasts
+album_date: "2020-01-06T15:16:21-08:00"
+properties:
+copyright: TigerEyes
+coverimage: 7_Dyed_Wool.jpeg
+creation_time: "2020-01-06T15:16:21-08:00"
+modification_time: "2020-01-06T22:39:07-08:00"
+
+photos:
+- file: 1_Dawn_on_Lhotse.jpeg
+  name: 1_Dawn_on_Lhotse.jpeg
+  alt: Dawn on Lhotse and Everest, Kama Valley, Tibet
+  caption: >
+          Dawn on Lhotse and Everest, Kama Valley, Tibet
+
+- file: 2_Monks_at_Sera_Monastery.jpeg
+  name: 2_Monks_at_Sera_Monastery.jpeg
+  alt: Monks at Sera Monastery, Lhasa
+  caption: >
+          Monks at Sera Monastery, Lhasa
+
+- file: 3_At_El_Cosmico.jpeg
+  name: 3_At_El_Cosmico.jpeg
+  alt: At El Cosmico, Marfa, Texas
+  caption: >
+          At El Cosmico, Marfa, Texas
+
+- file: 4_Kailash.jpeg
+  name: 4_Kailash.jpeg
+  alt: Kailash, Western Tibet
+  caption: >
+          Kailash, Western Tibet
+
+- file: 5_Vivid_Walls.jpeg
+  name: 5_Vivid_Walls.jpeg
+  alt: Vivid Walls, Lhasa
+  caption: >
+          Vivid Walls, Lhasa
+
+- file: 6_Boy_Ringing_Bell.jpeg
+  name: 6_Boy_Ringing_Bell.jpeg
+  alt: Boy Ringing Bell, Tashilunpo, Shigatse
+  caption: >
+          Boy Ringing Bell, Tashilunpo, Shigatse
+
+- file: 7_Dyed_Wool.jpeg
+  name: 7_Dyed_Wool.jpeg
+  alt: Dyed Wool, Chinchero, Peru
+  caption: >
+          Dyed Wool, Chinchero, Peru
+
+- file: 8_Frida_Kahlo_Garden.jpeg
+  name: 8_Frida_Kahlo_Garden.jpeg
+  alt: Frida Kahlo's Garden, Mexico City
+  caption: >
+          Frida Kahlo's Garden, Mexico City
+
+- file: 9_Olvera_Street.jpeg
+  name: 9_Olvera_Street.jpeg
+  alt: Olvera Street, Los Angeles
+  caption: >
+          Olvera Street, Los Angeles
+
+- file: X10_Kumbum.jpeg
+  name: X10_Kumbum.jpeg
+  alt: Kumbum, Gyantse
+  caption: >
+          Kumbum, Gyantse
+
+- file: X11_The_Jokhang.jpeg
+  name: X11_The_Jokhang.jpeg
+  alt: The Jokhang, Lhasa
+  caption: >
+          The Jokhang, Lhasa
+
+- file: X12_Sunlit_Door_at_Tashilunpo.jpeg
+  name: X12_Sunlit_Door_at_Tashilunpo.jpeg
+  alt: Sunlit Door at Tashilunpo, Shigatse
+  caption: >
+          Sunlit Door at Tashilunpo, Shigatse
+
+hashes:
+- file: 1_Dawn_on_Lhotse.jpeg
+  hash: 2812860223014314496
+
+- file: 2_Monks_at_Sera_Monastery.jpeg
+  hash: 1187228676097013760
+
+- file: 3_At_El_Cosmico.jpeg
+  hash: -6146529868989579264
+
+- file: 4_Kailash.jpeg
+  hash: -8347035793152573440
+
+- file: 5_Vivid_Walls.jpeg
+  hash: -1306725321908299776
+
+- file: 6_Boy_Ringing_Bell.jpeg
+  hash: -7238489688612229120
+
+- file: 7_Dyed_Wool.jpeg
+  hash: 7262170353292475392
+
+- file: 8_Frida_Kahlo_Garden.jpeg
+  hash: -6548596229958334464
+
+- file: 9_Olvera_Street.jpeg
+  hash: -2276929594302857216
+
+- file: X10_Kumbum.jpeg
+  hash: 7628833933775581184
+
+- file: X11_The_Jokhang.jpeg
+  hash: -3745433119820765184
+
+- file: X12_Sunlit_Door_at_Tashilunpo.jpeg
+  hash: 5369858419502329856
