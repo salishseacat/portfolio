@@ -9,7 +9,7 @@
         <h1 class="align-top font-display text-6xl">TigerEyes</h1>
       </div>
     </div>
-    <main class="container mx-auto font-body mt-10">
+    <main class="container mx-auto font-body mt-10 pb-16">
     <div class="flex flex-wrap justify-center mx-4">
     {{ range .Site.RegularPages }}
 <!--   <div class="rounded overflow-hidden shadow-lg">
@@ -24,7 +24,7 @@
  <div class="w-64 rounded overflow-hidden shadow-lg bg-white mx-1 mt-1">
     <div class=" bg-size bg-cover bg-center"
          style="background-image: url('{{ .Params.cover }}')">
-        <div class="p-4 h-48 flex items-end text-white">
+        <div class="p-4 h-48 flex items-end text-white font-display text-lg">
             <h3 class="mb-2">{{ .Title }}</h3>
         </div>
         <div class="relative">
@@ -49,5 +49,6 @@
     {{ end }}
     </div>
     </main>
+  {{ partial "footer.html" . }}
   </body>
 </html>
